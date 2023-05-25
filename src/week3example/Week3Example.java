@@ -19,6 +19,7 @@ public class Week3Example {
         System.out.println("pulling operations");
         // fetch and merge example.
         //this is the branch test code.
+        //modifying branch test code.
     }
     
 }
