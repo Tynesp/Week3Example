@@ -17,6 +17,7 @@ public class Week3Example {
         // TODO code application logic heresout
         System.out.println("Helloworld");
         System.out.println("pulling operations");
+        // fetch and merge example.
     }
     
 }
