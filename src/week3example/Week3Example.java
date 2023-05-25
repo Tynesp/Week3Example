@@ -16,6 +16,7 @@ public class Week3Example {
     public static void main(String[] args) {
         // TODO code application logic heresout
         System.out.println("Helloworld");
+        System.out.println("pulling operations");
     }
     
 }
